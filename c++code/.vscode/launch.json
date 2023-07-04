@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "e:/Placement Class/C++/c++code",
-      "program": "e:/Placement Class/C++/c++code/build/Debug/outDebug",
+      "cwd": "e:/Placement Class/C++/LPU_MCA/c++code",
+      "program": "e:/Placement Class/C++/LPU_MCA/c++code/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
